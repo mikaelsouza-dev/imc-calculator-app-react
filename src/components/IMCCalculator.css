@@ -1,0 +1,17 @@
+.wrapper {
+    padding: 1em;
+    border-radius: 1em;
+    height: 100%;
+}
+
+.btn-calculate {
+    width: 15em;
+}
+
+.alert {
+    margin-left: 5.45em;
+    width: 13em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
